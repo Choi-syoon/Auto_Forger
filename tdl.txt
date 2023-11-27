@@ -1,0 +1,5 @@
+23.11.27 ToDoList
+- dataset label json에서 발화자 id_checker
+- label json list 저장하는 search_json
+- data generator, data loader 생성
+- Padding, Tokenizer 생성
