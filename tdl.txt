@@ -1,5 +1,14 @@
+- 필요한 부분 -
+-> gui또는 cli환경에서 상담 음성을 입력
+
+-> google text to speech api 텍스트화
+
+-> tokenization, int indexing, padding, embedding등의 전처리
+
+-> 모델 학습 및 전이학습파트 구현
+
 23.11.27 ToDoList
-- dataset label json에서 발화자 id_checker
-- label json list 저장하는 search_json
-- data generator, data loader 생성
-- Padding, Tokenizer 생성
+- dataset label json에서 발화자 id_checker ✅
+- label json list 저장하는 search_json ✅
+- data generator, data loader 생성 - 개발중
+- Padding, Tokenizer 생성 - 개발중
