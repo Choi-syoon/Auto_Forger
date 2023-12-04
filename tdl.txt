@@ -11,4 +11,8 @@
 - dataset label json에서 발화자 id_checker ✅
 - label json list 저장하는 search_json ✅
 - data generator, data loader 생성 - 개발중
-- Padding, Tokenizer 생성 - 부분 완료, 12.01 ToDoList에서 확인할 예정
+- Padding, Tokenizer 생성 - 부분 완료
+
+23.12.04 ToDoList
+- 시퀀스 패딩 및 tokenize 수행 -> study branch IMDB 예제 수행
+- tkinter gui environment 개발
