@@ -10,9 +10,13 @@
 23.11.27 ToDoList
 - dataset label json에서 발화자 id_checker ✅
 - label json list 저장하는 search_json ✅
-- data generator, data loader 생성 - 개발중
-- Padding, Tokenizer 생성 - 부분 완료
+- data generator, data loader 생성 - 개발중 - 보류(12.17)
+- Padding, Tokenizer 생성 - 부분 완료 - 보류(12.17)
 
 23.12.04 ToDoList
 - 시퀀스 패딩 및 tokenize 수행 -> study branch IMDB 예제 수행
-- tkinter gui environment 개발
+- tkinter gui environment 개발 - 보류(12.17)
+
+23.12.17 ToDoList
+- TokenProcessor.read_talk_data 함수 내부 for문에서 text를 읽어오는 과정에서 해당 text에 대한 정보를 각 폴더.json에서 파싱필요.
+- 상담원, 고객 이진분류 모델 필요. - "main" Branch => "model develop" 변경
